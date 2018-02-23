@@ -1,0 +1,16 @@
+{
+    "name": "alan/nf-e",
+    "description": "Nota fiscal eletronica",
+    "type": "Project",
+    "license": "creative commons",
+    "authors": [
+        {
+            "name": "AlanCesarRocha",
+            "email": "acesarrocha3@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nfephp-org/sped-nfe" : "^5.0"
+    }   
+}
